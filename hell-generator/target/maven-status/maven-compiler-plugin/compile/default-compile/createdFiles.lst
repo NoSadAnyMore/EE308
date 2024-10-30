@@ -1,0 +1,13 @@
+com\hell\generator\util\GenUtils.class
+com\hell\generator\config\GenConfig.class
+com\hell\generator\domain\GenTable.class
+com\hell\generator\domain\GenTableColumn.class
+com\hell\generator\service\GenTableServiceImpl.class
+com\hell\generator\util\VelocityInitializer.class
+com\hell\generator\mapper\GenTableMapper.class
+com\hell\generator\service\IGenTableService.class
+com\hell\generator\service\GenTableColumnServiceImpl.class
+com\hell\generator\controller\GenController.class
+com\hell\generator\mapper\GenTableColumnMapper.class
+com\hell\generator\service\IGenTableColumnService.class
+com\hell\generator\util\VelocityUtils.class
